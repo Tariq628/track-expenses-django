@@ -15,7 +15,6 @@ environ.Env.read_env()
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
-
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = "0g*j#bow-z2daa(0-&)mpoyy(6ku-fshb^0%buv*d_vp9#7g$o"
 
@@ -32,7 +31,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "home",
-    "expenses"
+    "expenses",
 ]
 
 MIDDLEWARE = [
@@ -135,7 +134,6 @@ EMAIL_HOST_PASSWORD = env("EMAIL_HOST_PASSWORD")
 
 
 MESSAGE_TAGS = {messages.ERROR: "danger"}
-
 
 
 # GPT Link

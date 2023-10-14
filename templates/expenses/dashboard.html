@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <div class="max-w-md mx-auto p-6 bg-white rounded shadow-md">
+    <h2 class="text-2xl font-semibold mb-4">Expenses</h2>
+    <ul class="list-disc pl-4">
+      {% for expense in expenses %}
+        <li class="mb-2">{{ expense.date }} - {{ expense.place }} - {{ expense.price }}$ - {{ expense.description }}</li>
+      {% empty %}
+        <li>No expenses yet.</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}
