@@ -4,3 +4,7 @@ Don't reinvent the wheel with, use it as your boilerplate instead.
 <img width="1439" alt="Screenshot 2023-10-09 at 10 44 24 pm" src="https://github.com/Tariq628/django-auth-boilerplate-tailwind/assets/65600488/ad32f3cc-2a27-40c0-8a7e-c2d1c78925a2">
 <img width="1440" alt="Screenshot 2023-10-09 at 10 44 12 pm" src="https://github.com/Tariq628/django-auth-boilerplate-tailwind/assets/65600488/f6eee8f3-f4fc-4ac4-887e-f59dad65f154">
 <img width="1431" alt="Screenshot 2023-10-09 at 10 44 00 pm" src="https://github.com/Tariq628/django-auth-boilerplate-tailwind/assets/65600488/eb83cefc-d01a-445d-b3fa-1fb9c9e08f2d">
+<img width="1437" alt="Screenshot 2023-10-14 at 2 37 30 pm" src="https://github.com/Tariq628/track-expenses-django/assets/65600488/8d2e631a-f946-4920-91f3-230594ed3a9b">
+<img width="1440" alt="Screenshot 2023-10-14 at 2 35 40 pm" src="https://github.com/Tariq628/track-expenses-django/assets/65600488/fb7f33b1-7a5a-4f37-96ae-91fa8acf9352">
+<img width="1440" alt="Screenshot 2023-10-14 at 2 33 08 pm" src="https://github.com/Tariq628/track-expenses-django/assets/65600488/b880eaf6-586a-4459-a105-011c9a5193d8">
+
